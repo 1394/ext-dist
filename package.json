@@ -1,7 +1,7 @@
 {
   "name": "@sigma/ext-dist",
   "description": "Minimum required set of files from Ext JS: locales, packages, theme JS files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./ext-all.js",
   "publishConfig": {
     "registry": "https://nxs.sigma-it.ru/repository/npm-sigma-release/"
