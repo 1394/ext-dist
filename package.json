@@ -3,6 +3,10 @@
   "description": "Minimum required set of files from Ext JS: locales, packages, theme JS files",
   "version": "1.0.2",
   "main": "./ext-all.js",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab-dbr.sigma-it.local/ivanovayu/ext-dist.git"
+  },
   "publishConfig": {
     "registry": "https://nxs.sigma-it.ru/repository/npm-sigma-release/"
   }
