@@ -1,7 +1,7 @@
 {
-  "name": "@sigma/ext-dist",
+  "name": "ext-dist",
   "description": "Minimum required set of files from Ext JS: locales, packages, theme JS files",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./ext-all.js",
   "repository": {
     "type": "git",
